@@ -1,9 +1,12 @@
 # RealClear Support
 
-- [Account access and security](https://support.realclear.ai/account-access-and-security): Access, account security, and help with account issues.
-- [Evidence, citations, and known unknowns](https://support.realclear.ai/evidence-citations-and-known-unknowns): How RealClear distinguishes sourced facts, analysis, and unresolved questions.
-- [How RealClear produces a Site Memo](https://support.realclear.ai/how-realclear-produces-a-site-memo): The property-specific research and release process.
-- [Create your first site](https://support.realclear.ai/quickstart): Start a property research request.
-- [Research queue and delivery](https://support.realclear.ai/research-queue-and-delivery): What happens while a Site Memo is being prepared.
-- [Current Site Memo availability](https://support.realclear.ai/site-memo-versions-and-withdrawals): Use the current released Site Memo and understand withdrawal status.
-- [Understand a RealClear report](https://support.realclear.ai/understanding-a-report): Read the decision material, citations, and limits.
+- [Welcome to RealClear Support](https://support.realclear.ai): Order, track, and read property reports. Find help with your account and workspace.
+- [Order your first report](https://support.realclear.ai/quickstart): Request a property report in Reports and see what happens next.
+- [Follow report progress](https://support.realclear.ai/report-progress): See what each report stage means and what to do if your report pauses.
+- [Read a property report](https://support.realclear.ai/reading-a-report): Read the answer, compare approval routes, and open the public sources behind the findings.
+- [Use report tools](https://support.realclear.ai/report-tools): Prepare for a meeting, compare delivered reports, and print or export report materials.
+- [Properties and places](https://support.realclear.ai/properties-and-places): See what the New report form accepts and what to expect when the public record is thin.
+- [Evidence and quotations](https://support.realclear.ai/evidence-and-quotations): Understand what a public source establishes and why a question may stay open.
+- [Account access and security](https://support.realclear.ai/account-access-and-security): Accept an invitation, sign in, and manage two-factor authentication and passkeys.
+- [Manage your team and workspace](https://support.realclear.ai/team-and-settings): Rename your workspace, invite collaborators, and manage access as an organization owner.
+- [Get help](https://support.realclear.ai/getting-help): Send a support request, find replies, or contact RealClear before you have access.

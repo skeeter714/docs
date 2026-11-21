@@ -9,27 +9,40 @@
   },
   "favicon": "/images/favicon.png",
   "navigation": {
-    "pages": [
+    "groups": [
       {
-        "group": "Getting Started",
+        "group": "Start here",
         "pages": [
           "index",
           "quickstart"
         ]
-      }
-    ],
-    "groups": [
+      },
       {
-        "group": "Use RealClear",
+        "group": "Reports",
         "pages": [
-          "index",
-          "quickstart",
-          "research-queue-and-delivery",
-          "how-realclear-produces-a-site-memo",
-          "site-memo-versions-and-withdrawals",
-          "understanding-a-report",
-          "evidence-citations-and-known-unknowns",
-          "account-access-and-security"
+          "report-progress",
+          "reading-a-report",
+          "report-tools",
+          "properties-and-places"
+        ]
+      },
+      {
+        "group": "Evidence",
+        "pages": [
+          "evidence-and-quotations"
+        ]
+      },
+      {
+        "group": "Account",
+        "pages": [
+          "account-access-and-security",
+          "team-and-settings"
+        ]
+      },
+      {
+        "group": "Help",
+        "pages": [
+          "getting-help"
         ]
       }
     ]
@@ -79,5 +92,27 @@
       "canonical": "https://support.realclear.ai"
     },
     "indexing": "navigable"
-  }
+  },
+  "redirects": [
+    {
+      "source": "/research-queue-and-delivery",
+      "destination": "/report-progress"
+    },
+    {
+      "source": "/how-realclear-produces-a-site-memo",
+      "destination": "/quickstart"
+    },
+    {
+      "source": "/site-memo-versions-and-withdrawals",
+      "destination": "/report-tools"
+    },
+    {
+      "source": "/understanding-a-report",
+      "destination": "/reading-a-report"
+    },
+    {
+      "source": "/evidence-citations-and-known-unknowns",
+      "destination": "/evidence-and-quotations"
+    }
+  ]
 }
